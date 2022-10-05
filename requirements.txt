@@ -1,8 +1,2 @@
 streamlit
 sklearn
-json
-requests
-pickle
-pandas
-numpy
-streamlit_lottie
